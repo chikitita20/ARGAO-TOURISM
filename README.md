@@ -25,6 +25,20 @@ A website dedicated to showcasing the beauty and attractions of Argao tourism.
 - **Photographer:** braincontour 
 - **Link:** [View on Google Maps](https://i0.wp.com/www.braincontour.com/wp-content/uploads/2015/03/DSC_0566.jpg?ssl=1)
 
+### ka Treasure  Water Terraces
+- **Link:** [View on Google Maps](https://maps.app.goo.gl/NY8qKMseDdXLFFwr5)
+- **Photographer:** 하영 (Google Maps)
+
+
+- **Link:** [View on Google Maps](https://maps.app.goo.gl/4p18Y9ZWHQ5jcdBa8)
+- **Photographer:** John Wase(Google Maps)
+
+- **Link:** [View on Google Maps](https://maps.app.goo.gl/dAPtukXdH19dxSY19)
+- **Photographer:** Anna Cho (Google Maps)
+
+- **Link:** [View on Google Maps](https://maps.app.goo.gl/UWCd2xjLduea3hu87)
+- **Photographer:** John Wase
+(Google Maps)
 ---
 
 *Made with ❤️ by the Argao Tourism Team*
