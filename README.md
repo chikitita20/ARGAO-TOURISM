@@ -43,7 +43,20 @@ A website dedicated to showcasing the beauty and attractions of Argao tourism.
 - **Photographer:** John Wase (Google Maps)
   - **Link:** [View on Google Maps](https://maps.app.goo.gl/UWCd2xjLduea3hu87)
 
+### St. Michael Church
+
+- **Photographer:** Robert Papalid (SIMBYAHERO)
+- **Link:** [View on SIMBYAHERO]()
+
+- **Photographer:** Robert Papalid (SIMBYAHERO)
+- **Link:** [View on SIMBYAHERO](https://simbyahero.com/wp-content/uploads/2024/01/Cebu-Argao-Archdiocesan-Shrine-and-Parish-of-Saint-Michael-the-Archangel-1600-03-1536x1153.jpg)
+
+- **Photographer:** Robert Papalid (SIMBYAHERO)
+- **Link:** [View on SIMBYAHERO](https://simbyahero.com/wp-content/uploads/2024/01/Cebu-Argao-Archdiocesan-Shrine-and-Parish-of-Saint-Michael-the-Archangel-1600-12-1024x769.jpg)
+
+- **Photographer:** Robert Papalid (SIMBYAHERO)
+- **Link:** [View on SIMBYAHERO](https://simbyahero.com/wp-content/uploads/2024/01/Cebu-Argao-Archdiocesan-Shrine-and-Parish-of-Saint-Michael-the-Archangel-1600-11-1024x769.jpg)
+
 ---
 
 *Made with ❤️ by the Argao Tourism Team*
-
