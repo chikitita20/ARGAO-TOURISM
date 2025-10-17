@@ -74,6 +74,24 @@ A website dedicated to showcasing the beauty and attractions of Argao tourism.
 - **Photographer:** @Shee Laleii/Neriza Caballero(FB Page)
 - **Link:** [View on Fb Page](https://www.facebook.com/photo/?fbid=145556353456894&set=pcb.145558276790035)
 
+
+### Liki Spring
+
+- **Photographer:** Josephlinde Amasa (Google Maps)
+- **Link:** [View on Google Maps](https://maps.app.goo.gl/z5GCZpLjbAGtKdeH7)
+
+- **Photographer:** rogertheexplorer
+- **Link:** [View on rogertheexplorer.blogspot.com](https://3.bp.blogspot.com/-A8F6HcB6dKM/VW2kuCuNJzI/AAAAAAAAA24/4h1-7cIlgQs/s1600/IMG_20150531_103748.jpg)
+
+- **Photographer:** Moshi Villacido (Google Maps)
+- **Link:** [View on Google Maps](https://maps.app.goo.gl/PMWknhwjH3NVb3z8A)
+
+- **Photographer:** sugbo.ph
+- **Link:** [View on sugbo.ph](https://sugbo.ph/wp-content/uploads/2019/08/Liki-Cold-Spring-Argao-Cebu-2.jpg?x19437)
+
+- **Photographer:** sugbo.ph
+- **Link:** [View on sugbo.ph](https://sugbo.ph/wp-content/uploads/2019/08/Liki-Cold-Spring-Argao-Cebu-1.jpg)
+
 ---
 
 *Made with ❤️ by the Argao Tourism Team*
