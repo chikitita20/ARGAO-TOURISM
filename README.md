@@ -43,7 +43,9 @@ A website dedicated to showcasing the beauty and attractions of Argao tourism.
 - **Photographer:** John Wase (Google Maps)
   - **Link:** [View on Google Maps](https://maps.app.goo.gl/UWCd2xjLduea3hu87)
 
+- **Photographer:**  Corbett Campbell (Google Maps)
+- **Link:** [View on Google Maps](https://maps.app.goo.gl/ayHhr8PXbBmzQjam6)
 ---
-
+s
 *Made with ❤️ by the Argao Tourism Team*
 
