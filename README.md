@@ -2,7 +2,7 @@
 
 A website dedicated to showcasing the beauty and attractions of Argao tourism.
 
-## � About This Project
+## About This Project
 
 This is a static website built with **HTML** and **Tailwind CSS** to showcase the beautiful tourist destinations in Argao, Cebu, Philippines. The website features five main attractions:
 
@@ -12,13 +12,13 @@ This is a static website built with **HTML** and **Tailwind CSS** to showcase th
 - **Mahayahay Beach** - A hidden gem perfect for camping and fishing
 - **Ka Treasure Water Terraces** - Stunning agricultural terraces with natural spring irrigation
 
-### 🎨 Technologies Used
+### Technologies Used
 
 - **HTML5** - Semantic markup
 - **Tailwind CSS v4.1.14** - Utility-first CSS framework
 - **Font Awesome 6.0.0** - Icon library
 
-## 🛠️ Development Setup
+## Development Setup
 
 ### Prerequisites
 
@@ -53,12 +53,12 @@ This will watch for changes in your HTML files and `src/input.css`, and automati
 - `*.html` - HTML pages for each tourist destination
 - `index.html` - Homepage
 
-### 📚 Learn More
+### Learn More
 
 Read more about Tailwind CSS:
 - **Official Documentation:** [https://tailwindcss.com/docs/](https://tailwindcss.com/docs/)
 
-## �👥 Team Members
+## Team Members
 
 - **Cheacky Bedolido**
 - **Arianne Jay Radaza**
@@ -66,7 +66,7 @@ Read more about Tailwind CSS:
 - **Christine Frejoles**
 - **Jesrelle Enolpe**
 
-## 📸 Image Sources
+## Image Sources
 
 ### Mahayahay Beach
 
@@ -159,4 +159,4 @@ Read more about Tailwind CSS:
 
 ---
 
-*Made with ❤️ by the Argao Tourism Team*
+*Made with love by the Argao Tourism Team*
