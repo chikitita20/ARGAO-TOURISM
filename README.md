@@ -2,7 +2,63 @@
 
 A website dedicated to showcasing the beauty and attractions of Argao tourism.
 
-## 👥 Team Members
+## � About This Project
+
+This is a static website built with **HTML** and **Tailwind CSS** to showcase the beautiful tourist destinations in Argao, Cebu, Philippines. The website features five main attractions:
+
+- **Bugasok Falls** - A magnificent multi-tiered waterfall
+- **Liki Spring** - A refreshing natural spring with crystal-clear waters
+- **St. Michael the Archangel Church** - A historic Spanish colonial church
+- **Mahayahay Beach** - A hidden gem perfect for camping and fishing
+- **Ka Treasure Water Terraces** - Stunning agricultural terraces with natural spring irrigation
+
+### 🎨 Technologies Used
+
+- **HTML5** - Semantic markup
+- **Tailwind CSS v4.1.14** - Utility-first CSS framework
+- **Font Awesome 6.0.0** - Icon library
+
+## 🛠️ Development Setup
+
+### Prerequisites
+
+- Node.js and npm installed on your system
+
+### Installing Dependencies
+
+Install Tailwind CSS and its CLI tool:
+
+```bash
+npm install tailwindcss @tailwindcss/cli
+```
+
+### Compiling Tailwind CSS
+
+This project uses Tailwind CSS CLI for styling. When you make changes to the design or HTML structure, you need to recompile the CSS.
+
+#### Watch for Changes (Development)
+
+Run this command to automatically recompile CSS whenever you make changes:
+
+```bash
+npx @tailwindcss/cli -i ./src/input.css -o ./src/output.css --watch
+```
+
+This will watch for changes in your HTML files and `src/input.css`, and automatically rebuild `src/output.css`.
+
+### File Structure
+
+- `src/input.css` - Source Tailwind CSS file with custom styles
+- `src/output.css` - Compiled CSS file (generated, do not edit directly)
+- `*.html` - HTML pages for each tourist destination
+- `index.html` - Homepage
+
+### 📚 Learn More
+
+Read more about Tailwind CSS:
+- **Official Documentation:** [https://tailwindcss.com/docs/](https://tailwindcss.com/docs/)
+
+## �👥 Team Members
 
 - **Cheacky Bedolido**
 - **Arianne Jay Radaza**
